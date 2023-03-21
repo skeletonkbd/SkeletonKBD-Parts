@@ -6,3 +6,4 @@
 
 # whitelist
 !SkeletonKBD-Parts.pretty/**
+!SkeletonKBD-Parts.kicad_sym
