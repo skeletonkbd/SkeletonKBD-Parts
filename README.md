@@ -24,7 +24,7 @@ LED本体の寸法より15%大きいサイズのスロットにしています�
 
 ちっちゃいLED。リバースマウントできないこともないような気がしたのでフットプリントを作って（以下略
 
-## LTW-C230DS.kicad_mod
+## LTW-C230DS_reverse.kicad_mod
 
 ![LTW-C230DS](https://user-images.githubusercontent.com/90203406/226959566-641eebee-ca6f-4b2b-8839-a2dcbdd8a5e4.jpg)
 
