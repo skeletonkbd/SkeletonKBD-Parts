@@ -26,4 +26,4 @@ LED本体の寸法より15%大きいサイズのスロットにしています�
 
 ## LTW-C230DS.kicad_mod
 
-単色のLED。フットプリントは`Device:LED_Small`
+単色のLED。シンボルは`Device:LED_Small`
