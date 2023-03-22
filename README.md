@@ -12,7 +12,7 @@ LED本体の寸法より15%大きいサイズのスロットにしています�
 
 ## WS2812B-4020.kicad_mod
 
-横向きのLEDです。
+横向きのLED。
 
 ## SK6812D-EC3210R_reverse.kicad_mod
 
@@ -25,5 +25,7 @@ LED本体の寸法より15%大きいサイズのスロットにしています�
 ちっちゃいLED。リバースマウントできないこともないような気がしたのでフットプリントを作って（以下略
 
 ## LTW-C230DS.kicad_mod
+
+![LTW-C230DS](https://user-images.githubusercontent.com/90203406/226959566-641eebee-ca6f-4b2b-8839-a2dcbdd8a5e4.jpg)
 
 単色のLED。シンボルは`Device:LED_Small`
