@@ -13,3 +13,13 @@ LED本体の寸法より15%大きいサイズのスロットにしています�
 ## WS2812B-4020.kicad_mod
 
 横向きのLEDです。
+
+## SK6812D-EC3210R_reverse.kicad_mod
+
+![SK6812D-EC3210R](https://user-images.githubusercontent.com/90203406/226646191-80da7a33-2f6b-4d36-8ae2-af38f707dead.jpg)
+
+3方向に実装できるイカした設計のLED。リバースマウント用のフットプリントを作ってPCBAを発注してみたけど「横向きにしか対応してません」と断られた悲しみ。
+
+## WS2812C-2020_reverse.kicad_mod
+
+ちっちゃいLED。リバースマウントできないこともないような気がしたのでフットプリントを作って（以下略
